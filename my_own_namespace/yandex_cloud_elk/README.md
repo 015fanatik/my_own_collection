@@ -1,3 +1,32 @@
-# Ansible Collection - my_own_namespace.yandex_cloud_elk
+Role Name
+=========
+single_task_role
 
-Documentation for the collection.
+
+Example Playbook
+----------------
+
+---
+- name: test my role
+  hosts: localhost
+  roles:
+    - single_task_role
+
+    
+License
+-------
+MIT
+
+Author Information
+
+
+Variables 
+------------------
+
+Path - set file location
+Content - file contents
+
+Author Information
+------------------
+
+Vasilev Aleksandr
