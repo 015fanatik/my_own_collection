@@ -18,7 +18,6 @@ License
 -------
 MIT
 
-Author Information
 
 
 Variables 
