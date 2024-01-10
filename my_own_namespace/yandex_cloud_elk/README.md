@@ -6,7 +6,6 @@ single_task_role
 Example Playbook
 ----------------
 
----
 - name: test my role
   hosts: localhost
   roles:
